@@ -72,13 +72,20 @@ nav:
       - 'Ubuntu Server Kurulum Rehberi':
         - 'Statik Ip Belirleme': os/ubuntustaticip.md
         - 'Docker Kurulumu': os/dockerkurulumu.md
+        - 'Diskin Tamamını Kullanma': os/fulldisk.md
+        - 'Swap Ram Oluşturma': os/makeswap.md
+        - 'Yeni Bir Disk Ekleme': os/seconddisk.md
+        - 'Bios a Yeniden Başlatma': os/biosreboot.md
+        - 'Flash Bellek Bağlama': os/usbdisk.md
       - 'Docker Projeleri':
-        - 'Nginx Reverse Proxy': projeler/nginxreverseproxy.md
-        - '': projeler/.md
-        - '': projeler/.md
-        - '': projeler/.md
-        - '': projeler/.md
-        - '': projeler/.md
+        - 'Nginx Reverse Proxy': docker/nginxreverseproxy.md
+        - 'Dockge': docker/dockge.md
+        - 'Webtop': docker/webtop.md
+        - 'FreshRSS': docker/freshrss.md
+        - 'Uptime Kuma': docker/uptimekuma.md
+        - 'Vaultwarden': docker/vaultwarden.md
+        - 'Jellyfin': docker/jellyfin.md
+        - '': docker/.md
       - 'Python Projeleri':
         - '': projeler/.md
         - '': projeler/.md
