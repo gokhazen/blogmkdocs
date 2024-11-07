@@ -69,8 +69,9 @@ nav:
   - Dokümantasyon:
       - 'Baslangıç': 
         - 'Başlangıç': projeler/index.md
-      - 'Ubuntu ve Linux Öğrenme':
-        - 'Ubuntu Server Statik Ip Belirleme': os/ubuntustaticip.md
+      - 'Ubuntu Server Kurulum Rehberi':
+        - 'Statik Ip Belirleme': os/ubuntustaticip.md
+        - 'Docker Kurulumu': os/dockerkurulumu.md
       - 'Docker Projeleri':
         - 'Nginx Reverse Proxy': projeler/nginxreverseproxy.md
         - '': projeler/.md
