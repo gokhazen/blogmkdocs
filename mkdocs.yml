@@ -70,6 +70,7 @@ nav:
       - 'Baslangıç': 
         - 'Başlangıç': projeler/index.md
       - 'Ubuntu Server Kurulum Rehberi':
+        - 'Basit Linux Komutları': os/basitkomutlar.md
         - 'Statik Ip Belirleme': os/ubuntustaticip.md
         - 'Docker Kurulumu': os/dockerkurulumu.md
         - 'Diskin Tamamını Kullanma': os/fulldisk.md
