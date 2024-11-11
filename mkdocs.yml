@@ -65,7 +65,7 @@ extra:
       link: https://www.youtube.com/@gokhazen
 
 nav:
-  - Anasayfa: http://127.0.0.1:8000/
+  - Anasayfa: https://blog.gokhanozen.top
   - Dokümantasyon:
       - 'Başlangıç': merhaba.md
       - 'Ubuntu Server Kurulum Rehberi':
