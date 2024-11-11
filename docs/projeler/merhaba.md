@@ -1,0 +1,1 @@
+Burada, bizzat geliştirdiğim bütün projelerimi bulabilirsiniz. Onlara göz gezdirmenizi öneririm çünkü genellikle bir şey üzerinde çalışırken, toplumun ihtiyaçlarını karşılayabilecek ve gündelik sorunlara çözüm olabilecek projeler üretmeye özen gösteriyorum.

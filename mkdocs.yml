@@ -67,8 +67,7 @@ extra:
 nav:
   - Anasayfa: http://127.0.0.1:8000/
   - Dokümantasyon:
-      - 'Baslangıç': 
-        - 'Başlangıç': projeler/index.md
+      - 'Başlangıç': merhaba.md
       - 'Ubuntu Server Kurulum Rehberi':
         - 'Basit Linux Komutları': os/basitkomutlar.md
         - 'Statik Ip Belirleme': os/ubuntustaticip.md
@@ -79,22 +78,22 @@ nav:
         - 'Bios a Yeniden Başlatma': os/biosreboot.md
         - 'Flash Bellek Bağlama': os/usbdisk.md
       - 'Docker Projeleri':
-        - 'Nginx Reverse Proxy': docker/nginxreverseproxy.md
         - 'Dockge': docker/dockge.md
         - 'Webtop': docker/webtop.md
         - 'FreshRSS': docker/freshrss.md
         - 'Uptime Kuma': docker/uptimekuma.md
         - 'Vaultwarden': docker/vaultwarden.md
         - 'Jellyfin': docker/jellyfin.md
-        - '': docker/.md
-      - 'Python Projeleri':
-        - '': projeler/.md
-        - '': projeler/.md
-        - '': projeler/.md
-      - 'Discord Bot Geliştirme':
-        - '': projeler/.md
-        - '': projeler/.md
-        - '': projeler/.md  
+        - '': docker/.md 
+  - Projeler:
+      - 'Başlangıç': projeler/merhaba.md
+      - 'Yaratıcılığım':
+        - 'Anderson Hosting API': projeler/andersonapi.md
+        - 'Deprem Bilgi Sistemi': projeler/depremsitesi.md
+        - 'Uygulama Mağazası': projeler/appstore.md
+        - 'Lucy Discord Bot': projeler/lucydiscordbot.md
+        - 'VideoCUT Klip Sistemi': projeler/videocut.md
+        - 'Dürüm Bot': projeler/durumbot.md
   - Discord: https://gokhanozen.top/discord
   - Instagram: https://www.instagram.com/gokhazen/
   - Galeri: https://lucy.gokhanozen.top/art
